@@ -1,3 +1,4 @@
 select * from party_master
 select * from account master1
 select * from party_association
+select * from loan
