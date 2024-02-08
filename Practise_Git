@@ -1,2 +1,2 @@
 select * from party_master
-select * from account master
+select * from account master1
