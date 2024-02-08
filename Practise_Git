@@ -1,7 +1,3 @@
 select * from party_master
-<<<<<<< HEAD
 select * from account master1
-=======
-select * from account master
 select * from party_association
->>>>>>> 9ffb09193f6a803d93a00d7f13bec10b4e2b85b6
